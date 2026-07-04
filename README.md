@@ -16,12 +16,21 @@ Modern React frontend for an AI-powered Mock Interview Platform.
 
 ---
 
-# 📌 Overview
+# 📖 Project Overview
 
-MockMate Frontend provides an intuitive interface where users can register, log in, upload resumes, attend AI-powered mock interviews, and review personalized interview feedback.
+MockMate is an AI-powered mock interview platform designed to help users prepare for technical interviews. The platform enables users to practice interview questions, receive AI-generated feedback, analyze resumes, and monitor their interview performance through a modern web interface.
 
----
+# 🚀 Project Highlights
 
+- 🤖 AI-powered interview question generation
+- 📄 Resume analysis
+- 🔐 Secure JWT authentication
+- 📊 Interview performance dashboard
+- 💬 AI-generated answer evaluation
+- 📱 Responsive modern interface
+- ⚡ RESTful API architecture
+- 🗄️ MongoDB database integration
+  
 # ✨ Features
 
 - User Authentication
@@ -37,28 +46,18 @@ MockMate Frontend provides an intuitive interface where users can register, log 
 
 # 🛠️ Tech Stack
 
+## Frontend
 - React.js
 - Vite
 - JavaScript
 - Tailwind CSS
 - Axios
-- React Router
 
 ---
 
 # 📂 Folder Structure
 
-```
-src
- ├── components
- ├── pages
- ├── services
- ├── assets
- ├── hooks
- └── utils
-```
-
----
+<pre> # 🏗️ Project Architecture ```text User │ ▼ React Frontend │ REST API Calls │ ▼ Spring Boot Backend │ JWT Authentication │ ▼ MongoDB │ ▼ Groq AI API ``` </pre>
 
 # ⚙️ Installation
 
