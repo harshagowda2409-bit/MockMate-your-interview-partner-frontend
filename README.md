@@ -11,10 +11,6 @@
 
 Modern React frontend for an AI-powered Mock Interview Platform.
 
-![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 </div>
 
