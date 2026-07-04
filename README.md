@@ -93,6 +93,29 @@ npm run dev
 - AI Career Guidance
 
 ---
+# 📸 Screenshots
+
+## login Page
+
+![Home](screenshots/login page.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/home page.png)
+
+---
+
+## Interview
+
+![Interview](screenshots/interview.png)
+
+---
+
+## AI history
+
+![Feedback](screenshots/history.png)
 
 # ⚙️ Backend Repository
 
