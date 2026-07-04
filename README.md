@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="banner image.png" alt="MockMate Banner" width="100%">
+</p><div align="center">
 
 # 💻 MockMate – AI Mock Interview Platform (Frontend)
 
