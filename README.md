@@ -1,36 +1,38 @@
-# 💻 MockMate - AI Mock Interview Platform (Frontend)
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Vite-FastBuild-purple?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/Tailwind-CSS-cyan?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript"/>
-</p>
+# 💻 MockMate – AI Mock Interview Platform (Frontend)
 
----
+Modern React frontend for an AI-powered Mock Interview Platform.
 
-## 📖 About
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-MockMate is an AI-powered mock interview platform that enables users to practice technical interviews through an interactive web application.
-
-The frontend delivers a responsive user interface and communicates with the backend APIs for authentication, interview sessions, resume analysis, and feedback.
+</div>
 
 ---
 
-## ✨ Features
+# 📌 Overview
 
-- 🔐 User Login & Signup
-- 🎯 Dashboard
-- 🤖 AI Mock Interview
-- 📄 Resume Upload
-- 📊 Performance Dashboard
-- 📱 Fully Responsive UI
-- ⚡ Fast Loading
-- 🎨 Modern Interface
+MockMate Frontend provides an intuitive interface where users can register, log in, upload resumes, attend AI-powered mock interviews, and review personalized interview feedback.
 
 ---
 
-## 🛠 Tech Stack
+# ✨ Features
+
+- User Authentication
+- Responsive Dashboard
+- Resume Upload
+- AI Mock Interview
+- Interview Result Page
+- Profile Management
+- Modern UI
+- Responsive Design
+
+---
+
+# 🛠️ Tech Stack
 
 - React.js
 - Vite
@@ -41,77 +43,62 @@ The frontend delivers a responsive user interface and communicates with the back
 
 ---
 
-## 📂 Folder Structure
+# 📂 Folder Structure
 
 ```
 src
-│
-├── components
-├── pages
-├── services
-├── assets
-├── hooks
-└── utils
+ ├── components
+ ├── pages
+ ├── services
+ ├── assets
+ ├── hooks
+ └── utils
 ```
 
 ---
 
-## ⚙ Installation
-
-Clone Repository
+# ⚙️ Installation
 
 ```bash
 git clone https://github.com/harshagowda2409-bit/MockMate-your-interview-partner-frontend.git
-```
 
-Navigate
-
-```bash
 cd MockMate-your-interview-partner-frontend
-```
 
-Install
-
-```bash
 npm install
-```
 
-Run
-
-```bash
 npm run dev
 ```
 
 ---
 
-## Screens
+# 📷 Application Screens
 
 - Home
 - Login
 - Dashboard
 - Interview Session
-- Results
-- Resume Upload
+- AI Feedback
+- Profile
 
 ---
 
-## Future Improvements
+# 🚀 Future Improvements
 
 - Dark Mode
 - Voice Interview
+- Coding Interview Module
+- Mobile Responsive Improvements
 - AI Career Guidance
-- Coding Interview Support
-- Mobile Application
 
 ---
 
-## Backend Repository
+# ⚙️ Backend Repository
 
-👉 https://github.com/harshagowda2409-bit/MockMate-your-interview-partner
+https://github.com/harshagowda2409-bit/MockMate-your-interview-partner
 
 ---
 
-## Author
+## 👨‍💻 Developer
 
 **Harsha N U**
 
