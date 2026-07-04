@@ -97,13 +97,13 @@ npm run dev
 
 ## login Page
 
-![Home](screenshots/login page.png)
+![Home](screenshots/loginpage.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/home page.png)
+![Dashboard](screenshots/homepage.png)
 
 ---
 
